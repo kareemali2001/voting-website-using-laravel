@@ -1,0 +1,2 @@
+<button class="btn btn-danger ml-3" wire:click='logout'>Logout</button>
+<?php /**PATH C:\Users\DELL\online-voting-website-in-laravel-livewire-master\resources\views/livewire/frontend/logout.blade.php ENDPATH**/ ?>

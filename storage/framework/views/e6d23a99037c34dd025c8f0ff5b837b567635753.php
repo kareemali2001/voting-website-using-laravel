@@ -1,0 +1,2 @@
+<a href="" class="btn btn-danger w-100" wire:click.prevent='logout'>Logout</a>
+<?php /**PATH C:\Users\DELL\online-voting-website-in-laravel-livewire-master\resources\views/livewire/admin/logout.blade.php ENDPATH**/ ?>
