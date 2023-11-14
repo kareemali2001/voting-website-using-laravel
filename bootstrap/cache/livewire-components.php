@@ -1,0 +1,15 @@
+<?php return array (
+  'admin.change-password' => 'App\\Http\\Livewire\\Admin\\ChangePassword',
+  'admin.condidate' => 'App\\Http\\Livewire\\Admin\\Condidate',
+  'admin.dashboard' => 'App\\Http\\Livewire\\Admin\\Dashboard',
+  'admin.get-candidate-votes' => 'App\\Http\\Livewire\\Admin\\GetCandidateVotes',
+  'admin.login' => 'App\\Http\\Livewire\\Admin\\Login',
+  'admin.logout' => 'App\\Http\\Livewire\\Admin\\Logout',
+  'admin.position' => 'App\\Http\\Livewire\\Admin\\Position',
+  'admin.setting' => 'App\\Http\\Livewire\\Admin\\Setting',
+  'admin.voter' => 'App\\Http\\Livewire\\Admin\\Voter',
+  'frontend.home' => 'App\\Http\\Livewire\\Frontend\\Home',
+  'frontend.login' => 'App\\Http\\Livewire\\Frontend\\Login',
+  'frontend.logout' => 'App\\Http\\Livewire\\Frontend\\Logout',
+  'frontend.logout-page' => 'App\\Http\\Livewire\\Frontend\\LogoutPage',
+);
